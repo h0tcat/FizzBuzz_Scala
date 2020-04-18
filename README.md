@@ -1,0 +1,2 @@
+# FizzBuzz_Scala
+ScalaでFizzBuzz
